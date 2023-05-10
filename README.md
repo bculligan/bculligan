@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YbssPMDvYT0fdaHTZY/giphy.gif" width="100"/>
 
-<!--
-**bculligan/bculligan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>
+    Hi, I'm Bradley!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 🎓 A software engineer with a BSc (Honours) from the University of Cape Town (UCT) in Computer Science and an undergraduate BSc in Computer Science and Mathematical Statistics. 
+- ⚡ Interested in data solutions - from data engineering to AI. 
+- 💡 Always ready to learn new tools and techniques to optimally solve a problem.
